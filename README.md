@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development(MERN), Deep learning, AI , C++, Javascript, Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
-1. my mail : prateekjhawhiteteeth@gmail.com
+1. my mail : prateek24x7official@gmail.com
 
 <!---
 prateekjha99/prateekjha99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
